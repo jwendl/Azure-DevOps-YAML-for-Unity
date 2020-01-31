@@ -21,7 +21,7 @@ variables:
 
   # The path to the folder which contains the Assets folder of the project.
   # If your Unity project is located in a subfolder of your repo, make sure it is reflected in this.
-  unity.projectPath:        '$(System.DefaultWorkingDirectory)/'
+  unity.projectPath:        '$(System.DefaultWorkingDirectory)/Unity-Demo/'
 
   # If you are using Unity 2019 or later, leave this alone!
   unity.installComponents:  'Windows, UWP'
